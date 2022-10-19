@@ -1,6 +1,6 @@
-name: sample-flask
+name: flask-ocean
 services:
 - name: web
   github:
-    repo: digitalocean/sample-flask
+    repo: djstompzone/flask-ocean
     branch: main

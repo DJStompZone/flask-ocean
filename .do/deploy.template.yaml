@@ -1,7 +1,7 @@
 spec:
-  name: sample-flask
+  name: flask-ocean
   services:
   - name: web
     git:
       branch: main
-      repo_clone_url: https://github.com/digitalocean/sample-flask.git
+      repo_clone_url: https://github.com/djstompzone/flask-ocean.git
